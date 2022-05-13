@@ -4,9 +4,9 @@ This tool can be used to download files from Gelbooru; or rename existing ones b
 * When downloading files using the Bionis' grabber, it uses much more wi-fi data than the total file size of the files it downloaded. This tool does not make that mistake.
 * Tag implication list in implications.txt, because the Gelbooru developers still have not created an interface for users to submit their own.
 * The following customizations ont the file name that it will generate:
- * Automatically rename tags (according to preferences in rename.txt).
- * Automatically change the tag type to a different one or ignore the tag (according to preferences in reclassify.txt).
- * prefered order for general tags in tag_order.txt
+	* Automatically rename tags (according to preferences in rename.txt).
+	* Automatically change the tag type to a different one or ignore the tag (according to preferences in reclassify.txt).
+	* prefered order for general tags in tag_order.txt
 * This tool prints all metadata (tags, md5, source, rating, site name, score) into the image's user-comment tag EXIF metadata. This is only done for JPG and PNG files. I implemented this so that I can search the tags can be searched on windows.
 * This tool prints all the tags into the XP tags field (only for JPG files).
 
