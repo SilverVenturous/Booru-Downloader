@@ -1,4 +1,4 @@
-## SilverSolitude Booru Downloader
+## SilverVenturous Booru Downloader
 
 This tool can be used to download files from Gelbooru; or rename existing ones by commenting and uncommenting out certainlines of code. I created this tool for personal use according to my very specific preferences. I created this tool because I wanted some features that Bionus' booru grabber does not have:
 * When downloading files using the Bionis' grabber, it uses much more wi-fi data than the total file size of the files it downloaded. This tool does not make that mistake.
