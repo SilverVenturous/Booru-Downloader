@@ -1,0 +1,13 @@
+#this will take effect before reclassify and rename are applied
+black_heart noire_(neptune_series) character
+black_sister uni_(neptune_series) character
+green_heart vert character
+iris_heart pururut character
+orange_heart tennouboshi_uzume character
+purple_heart neptune_(neptune_series) character
+purple_sister nepgear character
+white_heart blanc_(neptune_series) character
+white_sister_ram ram_(neptune_series) character
+white_sister_rom rom_(neptune_series) character
+yellow_heart pish character
+#edge protection comment
