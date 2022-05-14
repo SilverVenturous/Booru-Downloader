@@ -372,8 +372,16 @@ def download_image_from_gelbooru_webpage(url_name):
     if not is_big_animated_file:
         download_url = original_image_url
         file_name = original_image_url[40:len(original_image_url)]
+        within_custom_limit = False
+        file_resolution = webpage_string.index("<li>Size:") + 10
+        file_resolution = webpage_string[file_resolution:webpage_string.index("<",file_resolution)]
+        file_resolution_width  = int(file_resolution[0:file_resolution.index("x")])
+        file_resolution_height = int(file_resolution[file_resolution.index("x")+1:len(file_resolution)])
+        #print(file_resolution_width + " " + file_resolution_height)
         if "Click here to expand image." in webpage_string:
             if original_image_url.endswith(".jpg") or original_image_url.endswith(".jpeg") or original_image_url.endswith(".png"):
+                #if file_resolution_height > 850 or file_resolution_width > 2000:
+                #I abandoned the resolution checker after I saw how much it increases data usage.
                 download_url = "https://img3.gelbooru.com//samples/" + original_image_url[34:39] + "/sample_" + original_image_url[40:72] + ".jpg"
                 file_name = "sample_" + original_image_url[40:72] + ".jpg"
         #comment out the following line if you want to rename existing images
