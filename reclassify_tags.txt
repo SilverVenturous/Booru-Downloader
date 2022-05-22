@@ -6,6 +6,7 @@
 4_3_aspect_ratio metadata
 4chan general
 SFM general
+a_new_hope ignore
 abigail_williams_(swimsuit* general
 abigail_williams_(traveling_outfit)_(fate) general
 absurdres metadata
@@ -45,6 +46,7 @@ batman__arkham_city ignore
 bayonetta_2 ignore
 bb_(swimsuit_mooncancer* general
 bb_(bb_shot!* general
+bethesda_softworks ignore
 biohazard ignore
 bioshock_infinite ignore
 bioware ignore
@@ -103,11 +105,16 @@ dcau ignore
 dead_or_alive_* ignore
 dengeki general
 deviantart general
+diablo_2 ignore
+diablo_3 ignore
 diamond_is_unbreakable ignore
 dic_entertainment inspector_gadget ignore
 digimon_* ignore
 disgaea_* ignore
 disney ignore
+dissidia ignore
+dissidia_final_fantasy ignore
+dmm ignore
 double_spoiler ignore
 double_dealing_character ignore
 dragon_ball_* ignore
@@ -164,6 +171,7 @@ fujimaru_ritsuka_(male)_* ignore
 gainax ignore
 game_freak ignore
 games_workshop ignore
+gearbox_software ignore
 ghostly_field_club ignore
 gorgon_(fate) ignore
 green_lantern ignore
@@ -171,6 +179,7 @@ green_lantern_(series) ignore
 guilty_gear_* ignore
 guilty_(company) ignore
 gust ignore
+halloween general
 hasbro ignore
 heaven's_feel ignore
 heavens_feel ignore
@@ -207,6 +216,7 @@ jeanne_d'arc_(third_ascension* general
 jeanne_d'arc_alter_(avenger* general
 jeanne_d'arc_alter_(ver._shinjuku_1999* general
 jiggly_girls artist
+journey_to_un'goro ignore
 justice_league ignore
 kaleidostick ignore
 kami_jigen_game_neptune_v copyright ignore
@@ -228,6 +238,7 @@ large_filesize metadata
 level-5 ignore
 lilith-soft ignore
 lowres metadata
+lucasfilm ignore
 luigi's_mansion ignore
 mages._(choujigen_game_neptune) ignore
 magia_record__mahou_shoujo_madoka_magica_gaiden ignore
@@ -243,6 +254,7 @@ mario_tennis ignore
 marvel_the_new_gods ignore
 marvel_comics copyright
 mash_kyrielight_* ignore
+mass_effect_* ignore
 mcdonald's ignore
 mcu ignore
 md5_mismatch ignore
@@ -274,6 +286,7 @@ miyamoto_musashi_(swimsuit* general
 mixed-language_commentary ignore
 mordred_(swimsuit* ignore
 mordred_(memories_at_trifas* ignore
+mortal_kombat_* ignore
 mountain_of_faith ignore
 my_little_pony_equestria_girls ignore
 my_little_pony_friendship_is_magic ignore
@@ -282,7 +295,6 @@ murasaki_shikibu_(swimsuit_rider* general
 mystic_square ignore
 mysterious_heroine_xx_(fate) ignore
 namco ignore
-naruto ignore
 naruto__road_to_ninja ignore
 naruto__the_last ignore
 narutobomb artist
@@ -291,6 +303,7 @@ naruto_pixxx artist
 narutopixxx artist
 naruto_shippuden ignore
 naruto_shippuuden ignore
+naughty_dog ignore
 nepnep_connect__chaos_chanpuru ignore
 nero_claudius_(bride* general
 nero_claudius_(olympian_bloomers* general
@@ -303,13 +316,13 @@ new_super_mario_bros._u_deluxe ignore
 new_super_marisa_land ignore
 new_year general
 nickelodeon ignore
-nier ignore
-nier_automata ignore
 nintendo ignore
 nintendo_ds general
+nintendo_3ds general
 nintendo_switch general
 nippon_ichi ignore
 nitocris_(swimsuit* ignore
+no_nut_november general
 nyantype ignore
 oda_nobunaga_(swimsuit_berserker* general
 oda_nobunaga_(maou_avenger* general
@@ -331,6 +344,7 @@ perfect_memento_in_strict_sense ignore
 persona_3__dancing_moon_night ignore
 persona_4__dancing_all_night ignore
 persona_5_the_royal ignore
+persona_5_royal ignore
 phantasmagoria_of_flower_view ignore
 pixar ignore
 pixiv ignore
@@ -341,6 +355,7 @@ prinny_(series) ignore
 prinny_can_i_really_be_the_hero_ ignore
 prisma_illy* ignore
 quetzalcoatl_(samba_santa* general
+rareware ignore
 rebuild_of_evangelion ignore
 red_bull general
 riot_games ignore
@@ -375,19 +390,21 @@ snk ignore
 sonic_the_hedgehog_(series) ignore
 sonic_boom_(game) ignore
 sonic_team ignore
-soulcalibur ignore
 soulcalibur_* ignore
+soul_calibur_vi ignore
 spider-man_(series) ignore
 spider-man__into_the_spider-verse ignore
 splatoon_1 ignore
 splatoon_2 ignore
 square_enix ignore 
-star_wars__rebels ignore
-star_wars__the_clone_wars ignore
+star_wars_* ignore
+star_trek_* ignore
 stardust_crusaders ignore
 steam_deck general
+steven_universe_* ignore
 street_fighter_* ignore
 studio_ghibli ignore
+studiofow artist
 suicide_squad ignore
 subterranean_animism ignore
 super_mario_* ignore
@@ -423,6 +440,7 @@ touhou_sangetsusei ignore
 translated ignore
 translation_request metadata
 trigger_(company) ignore
+tumblr ignore
 twitter general
 twister general
 type-moon ignore
@@ -433,6 +451,7 @@ ultra_street_fighter_iv ignore
 uncensored ignore
 undefined_fantastic_object ignore
 ushiwakamaru_(swimsuit* general
+valentine's_day general
 vampire_resurrection ignore
 vanillaware ignore
 very_high_resolution metadata
@@ -444,7 +463,6 @@ webm metadata
 whentai artist
 wild_and_horned_hermit ignore
 wonder_woman_(series) ignore
-world_of_warcraft ignore
 x-force ignore
 x-men ignore
 young_justice ignore

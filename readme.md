@@ -1,6 +1,6 @@
 ## SilverVenturous Booru Downloader
 
-This tool can be used to download files from Gelbooru; or rename existing ones by commenting and uncommenting out certainlines of code. I created this tool for personal use according to my very specific preferences. I created this tool because I wanted some features that Bionus' booru grabber does not have:
+This tool can be used to download files from Gelbooru. I created this tool for personal use according to my very specific preferences. I created this tool because I wanted some features that Bionus' booru grabber does not have:
 * When downloading files using the Bionis' grabber, it uses much more wi-fi data than the total file size of the files it downloaded. This tool does not make that mistake.
 * Tag implication list in implications.txt, because the Gelbooru developers still have not created an interface for users to submit their own.
 * The following customizations on the file name that it will generate:
@@ -16,9 +16,18 @@ How to use:
 * put the links to the gelbooru pages you want to download (which have a format like this: https://gelbooru.com/index.php?page=post&s=view&id=7222955) in the gelbooru_image_page_links.txt file, one on each line
 * in the folder where the python files are located, enter "python main.py" on the command line
 * the files will be downloaded in that folder
+* line 399 in main.py can be edited to change the maximum file size
+
+Additionally, two tools are included to search the files you have downloaded:
+* generate_metadata_list.py can be used to generate a database of the files you have downloaded using the downloader. You have to provide it the list of files it needs to scan. Put absolute reference file paths in file_list.txt
+* search_metadata_file.py is a template for searching through the database. Basic python know-how is required to edit this file according to what you are trying to accomplish. The outputs are printed in search_results.txt
 
 To-do:
-* Implement the ability to download from rule34.xxx or sankakucomplex
-* Create a blacklist for tags to add to the file name when the rating is safe. I don't need to add tags like "breasts" and "ass" to the names of files that are safe
+* Implement the ability to download from sankakucomplex.
+* Create a blacklist for tags to add to the file name when the rating is safe. I don't need to add tags like "breasts" and "ass" to the names of files that are safe.
 
 I cannot be arsed to do stuff like make this tool more customizable or add a user interface. Sometimes I wonder why I go to such lengths to organize my collection of hentai pictures.
+
+V1.1 changes:
+* rule34.xxx links are now also accepted
+* The database generator and search tool was added.

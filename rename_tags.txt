@@ -1,6 +1,9 @@
+avatar_the_last_airbender avatar_(series) copyright
 berserker_(fate_zero) lancelot character
 bishoujo_senshi_sailor_moon sailor_moon copyright
 boku_no_hero_academia my_hero_academia copyright
+breath_of_the_wild LoZ-breath_of_the_wild copyright
+breath_of_the_wild_2 LoZ-breath_of_the_wild copyright
 dc_comics dc copyright
 doukutsu_monogatari cave_story copyright
 dota_2 dota_(series) copyright
@@ -32,19 +35,28 @@ final_fantasy_xiii-2 FF13 copyright
 final_fantasy_xiv FF14 copyright
 final_fantasy_xv FF15 copyright
 girls_frontline girls'_frontline copyright
+hyrule_warriors LoZ-hyrule_warriors copyright
 itai_no_wa_iya_nano_de_bougyoryoku_ni_kyokufuri_shitai_to_omoimasu bofuri copyright
 jojo_no_kimyou_na_bouken jojo's_bizarre_adventure copyright
 kobayashi-san_chi_no_maidragon miss_kobayashi's_dragon_maid copyright
 kono_subarashii_sekai_ni_shukufuku_wo! KonoSuba copyright
 lancer cu_chulainn character
 lightning_returns__final_fantasy_xiii FF13 copyright
+link's_awakening LoZ-link's_awakening copyright
+marvel_comics marvel copyright
+naruto naruto_(series) copyright
 neptune_(series) neptunia_(series) copyright
+nier_automata nier_(series) copyright
+nier__automata nier_(series) copyright
+nier nier_(series) copyright
 overlord_(maruyama) overlord copyright
 photo_(medium) photo general
 re_zero_kara_hajimeru_isekai_seikatsu re_zero copyright
 rockman megaman copyright
 shingeki_no_kyojin attack_on_titan copyright
+skyrim the_elder_scrolls copyright
 skyward_sword LoZ-SS copyright
+soulcalibur soul_calibur copyright
 tamamo_(fate) tamamo_no_mae character
 tengen_toppa_gurren_lagann gurren_lagann copyright
 the_king_of_fighters king_of_fighters copyright
@@ -59,8 +71,13 @@ the_legend_of_zelda__the_wind_waker LoZ-wind_waker copyright
 the_legend_of_zelda__twilight_princess LoZ-twilight_princess copyright
 the_legend_of_zelda__a_link_between_worlds LoZ-a_link_between_worlds copyright
 the_legend_of_zelda__a_link_to_the_past LoZ-a_link_to_the_past copyright
+the_wind_waker LoZ-the_wind_waker ignore
+the_witcher the_witcher_(series) copyright
+twilight_princess LoZ-twilight_princess copyright
 ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai oreimo copyright
 vampire_(game) darkstalkers copyright
+wow warcraft copyright
+world_of_warcraft warcraft copyright
 *_(all) REMOVE character
 *_(animal_crossing) REMOVE character
 *_(fate) REMOVE character
@@ -102,6 +119,7 @@ vampire_(game) darkstalkers copyright
 *_(pokemon) REMOVE character
 *_(princess_connect!) REMOVE character
 *_(queen's_blade) REMOVE character
+*_(renkin_san-kyuu_magical_pokaan) REMOVE character
 *_(rider) REMOVE character
 *_(ruler) REMOVE character
 *_(saber) REMOVE character
@@ -180,7 +198,7 @@ closed_eyes CloseEyes general
 crossdressing crossdress general
 cross_section Xsection general
 cowgirl_position CowFpos general
-cum ~cum general
+cum zcum general
 cum_from_nose ~nose general
 cum_inside ~sex general
 cumshot =D~ general
@@ -320,6 +338,7 @@ foursome 4some general
 6boys 6M general
 7boys 7M general general
 6+boys 6+M general
+1boy1girl 1M1F general
 blonde_hair blonde general
 female fem general
 female_only onlyF general
