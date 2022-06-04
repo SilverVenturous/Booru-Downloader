@@ -28,7 +28,7 @@ ascii_media_works ignore
 arena_(company) ignore
 artist_request ignore
 arthur_pendragon_(white_rose* ignore
-artoria_pendragon_(alter_swimsuit* general
+artoria_pendragon_(alter_swimsuit* ignore
 artoria_pendragon_(swimsuit* general
 artoria_pendragon_(lancer_alter)_(royal_icing* general
 astolfo_(memories_at_trifas* general
@@ -354,6 +354,7 @@ pokemon_* ignore
 prinny_(series) ignore
 prinny_can_i_really_be_the_hero_ ignore
 prisma_illy* ignore
+queen's_blade_rebellion ignore
 quetzalcoatl_(samba_santa* general
 rareware ignore
 rebuild_of_evangelion ignore

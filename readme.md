@@ -8,7 +8,7 @@ This tool can be used to download files from Gelbooru. I created this tool for p
 	* Automatically change the tag type to a different one or ignore the tag (according to preferences in reclassify.txt).
 	* prefered order for general tags in tag_order.txt
 * This tool prints all metadata (tags, md5, source, rating, site name, score) into the image's user-comment EXIF metadata tag. This is only done for JPG and PNG files. I implemented this so that I can search for tags windows.
-* This tool prints all the tags into the XP-tags metadaa (only for JPG files).
+* This tool prints all the tags into the XP-tags metadata field (only for JPG files).
 
 How to use:
 * Install python
@@ -25,9 +25,13 @@ Additionally, two tools are included to search the files you have downloaded:
 To-do:
 * Implement the ability to download from sankakucomplex.
 * Create a blacklist for tags to add to the file name when the rating is safe. I don't need to add tags like "breasts" and "ass" to the names of files that are safe.
+* I have looked for ways to embed metadata in MP4, GIF, and WEBM files. I found the mutagen package which works for MP4 files, but no luck with the other. I have decided to make a database file that will store the metadata of downloaded animated files. The metadata database generator will use data from this database if its available.
 
 I cannot be arsed to do stuff like make this tool more customizable or add a user interface. Sometimes I wonder why I go to such lengths to organize my collection of hentai pictures.
 
 V1.1 changes:
 * rule34.xxx links are now also accepted
 * The database generator and search tool was added.
+V1.2 changes:
+* Gelbooru's new 4-tier rating system is now taken into account. The sensitive rating will also add "Explicit" to the beginning of the filename.
+* The file's level of explicitness (sensitive, questionable, explicit) is now specified in the filename after the general tags
